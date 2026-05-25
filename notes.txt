@@ -48,6 +48,6 @@
    [+] Write Javadoc in LIB classes
    [+] Organize pom file
    [+] Publish
-[-] Final code refactoring
+[+] Final code refactoring
 [-] Write README file
 [-] ... (add new ones after reviewing the project)
